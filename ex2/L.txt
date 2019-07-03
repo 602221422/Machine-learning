@@ -1,0 +1,35 @@
+# Created by Octave 4.4.1, Mon Feb 11 16:09:19 2019 GMT <unknown@AUTOBVT-2TPMALC>
+# name: L
+# type: diagonal matrix
+# rows: 28
+# columns: 28
+0
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+
+

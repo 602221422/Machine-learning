@@ -1,0 +1,3 @@
+function [x] = gaussElim(A,b)
+% File gaussElim.m
+% This subroutine will perform Gaussian elmination
